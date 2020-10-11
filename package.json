@@ -1,0 +1,24 @@
+{
+  "name": "socket.io_server",
+  "version": "1.0.0",
+  "description": "Simple intento de websocket para administrar conexiones",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicluber/socket.io_server.git"
+  },
+  "author": "Victor Willhuber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicluber/socket.io_server/issues"
+  },
+  "homepage": "https://github.com/vicluber/socket.io_server#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
